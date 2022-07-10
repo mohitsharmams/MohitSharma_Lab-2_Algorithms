@@ -53,7 +53,6 @@ public class Targets {
 					System.out.println("Target achived after "+noOfTransactions+" Transactions\n");
 					break;
 				}
-				i++;
 			}
 			if(checkAmount<= targetAmount) {
 				System.out.println("Target not achieved\n\n");
